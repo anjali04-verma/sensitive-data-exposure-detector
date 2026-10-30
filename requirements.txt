@@ -1,0 +1,6 @@
+﻿scapy
+requests
+pandas
+streamlit>=1.37
+pyftpdlib
+pytest
